@@ -1,0 +1,205 @@
+Data de disponibilização|Tribunal|Inicio|Fim|Relator|Agravante|Advogados|Data Jornal|Executado|Exequente|Agravado
+26/03/2020|TRIBUNAL REG. FEDERAL 4A REGIAO|31 de março de 2020, às 00:00|07 de abril de 2020, terça- feira, às 16h00min|null|DANA INDUSTRIAS LTDA.|RENATO ROMEU RENCK JUNIOR (OAB RS027574)|null|null|null|UNIAO - FAZENDA NACIONAL
+20/03/2020|TRIBUNAL REG. FEDERAL 4A REGIAO|31 de março de 2020, às 00:00|07 de abril de 2020, terça- feira, às 16h00min|MINISTRO PRESIDENTE DO STJ|null|RENATO ROMEU RENCK JUNIOR (OAB RS027574)|null|null|null|null
+23/03/2020|undefined|null|null|null|null|null|23/03/2020|null|null|null
+23/03/2020|undefined|null|null|null|null|null|23/03/2020|null|null|null
+23/03/2020|undefined|null|null|null|null|null|24/03/2020|null|null|null
+31/03/2020|SUPERIOR TRIBUNAL DE JUSTICA|null|null|MINISTRO PRESIDENTE DO STJ|null|null|null|null|null|null
+02/04/2020|undefined|null|null|null|null|null|02/04/2020|null|null|null
+01/04/2020|JUSTIÇA ESTADUAL RS|null|null|null|null|null|null|null|null|null
+01/04/2020|undefined|null|null|null|null|null|02/04/2020|null|null|null
+03/04/2020|undefined|null|null|null|null|null|03/04/2020|null|null|null
+02/04/2020|SUPERIOR TRIBUNAL DE JUSTICA|null|null|MINISTRO PRESIDENTE DO STJ|null|null|null|null|null|null
+07/04/2020|undefined|null|null|null|null|null|07/04/2020|null|null|null
+08/04/2020|JUSTIÇA ESTADUAL RS|null|null|null|null|null|null|null|null|null
+09/04/2020|JUSTIÇA ESTADUAL RS|null|null|null|null|null|null|null|null|null
+09/04/2020|JUSTIÇA ESTADUAL RS|null|null|null|null|null|null|null|null|null
+14/04/2020|undefined|null|null|JUIZ FEDERAL FRANCISCO DONIZETE GOMES|null|RENATO ROMEU RENCK JUNIOR (OAB RS027574)|14/04/2020|null|null|null
+14/04/2020|undefined|null|null|JUIZ FEDERAL FRANCISCO DONIZETE GOMES|DANA INDUSTRIAS LTDA.|RENATO ROMEU RENCK JUNIOR (OAB RS027574)|14/04/2020|null|null|UNIAO - FAZENDA NACIONAL
+14/04/2020|undefined|null|null|null|null|RENATO ROMEU RENCK JUNIOR (OAB RS027574)|14/04/2020|null|null|null
+14/04/2020|undefined|null|null|DESEMBARGADOR FEDERAL ROMULO PIZZOLATTI|null|RENATO ROMEU RENCK JUNIOR (OAB RS027574) PARTE RE: UNIAO - FAZENDA NACIONAL (INTERESSADO)|14/04/2020|null|null|null
+15/04/2020|undefined|null|null|null|null|null|15/04/2020|null|null|null
+16/04/2020|undefined|null|null|null|null|null|16/04/2020|LANCHONETE E RESTAURANTE VENTO SERRANO LTDA ME|ESTADO DE SANTA CATARINA -|null
+16/04/2020|undefined|null|null|null|null|null|16/04/2020|null|null|null
+20/04/2020|undefined|null|null|null|null|null|20/04/2020|null|null|null
+23/04/2020|undefined|null|null|null|null|null|23/04/2020|null|null|null
+23/04/2020|undefined|null|null|null|null|null|23/04/2020|null|null|null
+24/04/2020|undefined|null|null|null|null|RENATO ROMEU RENCK JUNIOR (OAB RS027574)|24/04/2020|null|null|null
+24/04/2020|TRIBUNAL REG. FEDERAL 4A REGIAO|06 de maio de 2020, às 00:00|13 de maio de 2020, quarta- feira, às 16h00min|null|null|RENATO ROMEU RENCK JUNIOR (OAB RS027574)|null|null|null|null
+27/04/2020|SUPERIOR TRIBUNAL DE JUSTICA|null|null|MINISTRO LUIS FELIPE SALOMAO - QUARTA TURMA REDISTRIBUICAO POR PREVENCAO DO|null|null|null|null|null|null
+27/04/2020|SUPERIOR TRIBUNAL DE JUSTICA|null|null|MINISTRO LUIS FELIPE SALOMAO - QUARTA TURMA REDISTRIBUICAO POR PREVENCAO DO|null|null|null|null|null|null
+27/04/2020|undefined|null|null|null|null|null|27/04/2020|PLANALTO TRANSPORTES LTDA|ESTADO DE SANTA CATARINA -|null
+28/04/2020|SUPERIOR TRIBUNAL DE JUSTICA|null|null|null|null|null|null|null|null|null
+29/04/2020|undefined|null|null|null|null|null|29/04/2020|PLANALTO TRANSPORTES LTDA|ESTADO DE SANTA CATARINA -|null
+30/04/2020|undefined|null|null|null|null|null|30/04/2020|null|null|null
+04/05/2020|undefined|null|null|DESEMBARGADOR FEDERAL ROMULO PIZZOLATTI|null|RENATO ROMEU RENCK JUNIOR (OAB RS027574)|04/05/2020|null|null|null
+04/05/2020|JUSTIÇA ESTADUAL RS|null|null|null|null|null|null|null|null|null
+05/05/2020|SUPERIOR TRIBUNAL DE JUSTICA|null|null|MINISTRO PRESIDENTE DO STJ|null|null|null|null|null|null
+05/05/2020|JUSTIÇA ESTADUAL RS|null|null|null|null|null|null|null|null|null
+05/05/2020|JUSTIÇA ESTADUAL RS|null|null|null|null|null|null|null|null|null
+05/05/2020|undefined|null|null|DESEMBARGADOR PEDRO LUIZ POZZA|DAVI ANDRE SCHVINGEL|MARCUS CANEVER FRAGA (OAB RS031472)|05/05/2020|null|null|CHARQUEADAS TRANSPORTES LTDA
+07/05/2020|JUSTIÇA ESTADUAL RS|null|null|null|null|null|null|null|null|null
+07/05/2020|undefined|null|null|null|null|null|07/05/2020|null|null|null
+11/05/2020|undefined|null|null|null|null|RENATO ROMEU RENCK JUNIOR (OAB RS027574)|11/05/2020|null|null|null
+11/05/2020|undefined|null|null|null|null|null|11/05/2020|MARIANI REPRESENTACOES INDUSTRIA E COMERCIO LTDA. -|RENCK & ADVOGADOS ASSOCIADOS SC|null
+11/05/2020|undefined|null|null|null|null|null|11/05/2020|null|null|null
+11/05/2020|undefined|null|null|null|null|null|11/05/2020|PLASTICOS PISANI S.A -|ALEXANDRE MARIANI|null
+12/05/2020|JUSTIÇA ESTADUAL RS|null|null|null|null|null|null|null|null|null
+14/05/2020|undefined|null|null|JUIZ FEDERAL ALEXANDRE GONCALVES LIPPEL|PRESS COMERCIO DE ALIMENTOS LTDA|RENATO ROMEU RENCK JUNIOR (OAB RS027574)|14/05/2020|null|null|UNIAO - FAZENDA NACIONAL
+14/05/2020|undefined|null|null|JUIZ FEDERAL ALEXANDRE GONCALVES LIPPEL|null|null|14/05/2020|null|null|null
+15/05/2020|undefined|null|null|null|null|null|15/05/2020|PLASTICOS PISANI S.A|MARIANI REPRESENTACOES INDUSTRIA E COMERCIO LTDA. -|null
+15/05/2020|undefined|null|null|null|null|null|15/05/2020|null|null|null
+15/05/2020|undefined|null|null|DES. ERGIO ROQUE MENINE AGRAVO DE INSTRUMENTO 0055- 70083444380 (ELETRONICO) (CNJ: 316347- 64.2019.8.21.7000) - LOCACAO - 3.VARA CIVEL CAPAO DA CANOA (141/10500060274) - SERGIO SANDLER (ADV(S) RENATO ROMEU RENCK JUNIOR OAB/RS 27574), AGRAVANTE; DUCELO EMPREENDIMENTOS IMOBILIARIOS LTDA (ADV(S) EDUARDO DA SILVA LANGER - OAB/RS 35672 LAERCIO CARVALHO DOS SANTOS - OAB/RS 37085 MARCELO FABIANO IORRA - OAB/RS 36901) AGRAVADO(A).|null|null|15/05/2020|null|null|null
+18/05/2020|undefined|null|null|null|null|null|18/05/2020|null|null|null
+18/05/2020|undefined|null|null|null|null|null|18/05/2020|null|null|null
+20/05/2020|undefined|null|null|null|null|null|21/05/2020|null|null|null
+21/05/2020|undefined|null|null|null|null|null|21/05/2020|null|null|null
+25/05/2020|TRIBUNAL REG. FEDERAL 4A REGIAO|03 de junho de 2020, às 00:00|10 de junho de 2020, quarta- feira, às 16h00min|null|null|RENATO ROMEU RENCK JUNIOR (OAB RS027574)|null|null|null|null
+25/05/2020|TRIBUNAL REG. FEDERAL 4A REGIAO|03 de junho de 2020, às 00:00|10 de junho de 2020, quarta- feira, às 16h00min|null|UNIAO - FAZENDA NACIONAL|RENATO ROMEU RENCK JUNIOR (OAB RS027574)|null|null|null|PLANALTO ENCOMENDAS LTDA
+25/05/2020|TRIBUNAL REG. FEDERAL 4A REGIAO|03 de junho de 2020, às 00:00|10 de junho de 2020, quarta- feira, às 16h00min|null|UNIAO - FAZENDA NACIONAL|RENATO ROMEU RENCK JUNIOR (OAB RS027574)|null|null|null|PLANALTO ENCOMENDAS LTDA
+25/05/2020|undefined|null|null|null|null|null|25/05/2020|null|null|null
+25/05/2020|undefined|null|null|null|null|null|25/05/2020|null|null|null
+26/05/2020|undefined|null|null|null|ESTADO DE MATO GROSSO DO SUL PROC. DO ESTADO: MARCELO ALFREDO ARAUJO KROETZ (OAB: 13893/MS)|RENATO ROMEU RENCK JUNIOR (OAB: 27574/RS)|27/05/2020|null|null|SERRANA - MAQUINAS IMPLEMENTOS AGRIC LTDA
+27/05/2020|undefined|null|null|null|ESTADO DE MATO GROSSO DO SUL PROC. DO ESTADO: MARCELO ALFREDO ARAUJO KROETZ (OAB: 13893/MS)|RENATO ROMEU RENCK JUNIOR (OAB: 27574/RS)|28/05/2020|null|null|SERRANA - MAQUINAS IMPLEMENTOS AGRIC LTDA
+29/05/2020|SUPERIOR TRIBUNAL DE JUSTICA|null|null|MINISTRO NAPOLEAO NUNES MAIA FILHO|null|null|null|null|null|null
+03/06/2020|undefined|null|null|null|null|null|03/06/2020|null|null|null
+05/06/2020|TRIBUNAL REG. FEDERAL 4A REGIAO|17 de junho de 2020, às 00:00|24 de junho de 2020, quarta- feira, às 16h00min|null|RENCK E MAGRISSO ADVOGADOS ASSOCIADOS S/C|RENATO ROMEU RENCK JUNIOR (OAB RS027574)|null|null|null|UNIAO - FAZENDA NACIONAL
+05/06/2020|TRIBUNAL REG. FEDERAL 4A REGIAO|17 de junho de 2020, às 00:00|24 de junho de 2020, quarta- feira, às 16h00min|null|FORMOSA PARTICIPACOES LTDA|RENATO ROMEU RENCK JUNIOR (OAB RS027574)|null|null|null|UNIAO - FAZENDA NACIONAL
+05/06/2020|TRIBUNAL REG. FEDERAL 4A REGIAO|17 de junho de 2020, às 00:00|24 de junho de 2020, quarta- feira, às 16h00min|null|UNESUL DE TRANSPORTES LTDA|RENATO ROMEU RENCK JUNIOR (OAB RS027574)|null|null|null|DELEGADO DA RECEITA FEDERAL DO BRASIL - UNIAO - FAZENDA NACIONAL - PORTO ALEGRE
+09/06/2020|undefined|null|null|null|null|null|09/06/2020|null|null|null
+12/06/2020|SUPERIOR TRIBUNAL DE JUSTICA|null|null|null|null|null|null|null|null|null
+16/06/2020|undefined|null|null|null|null|null|16/06/2020|null|null|null
+17/06/2020|JUSTIÇA ESTADUAL RS|null|null|null|null|null|null|null|null|null
+28/05/2020|undefined|null|null|null|null|null|28/05/2020|null|null|null
+19/06/2020|SUPERIOR TRIBUNAL DE JUSTICA|null|null|MINISTRO PRESIDENTE DO STJ|null|null|null|null|null|null
+19/06/2020|SUPERIOR TRIBUNAL DE JUSTICA|null|null|MINISTRO MARCO AURELIO BELLIZZE|null|null|null|null|null|null
+23/06/2020|undefined|null|null|null|null|null|23/06/2020|ALTAIR NERONE MULLER ME -|RENATO RENCK E MAGRISSO ADVOGADOS ASSOCIADOS S/C|null
+23/06/2020|undefined|null|null|null|null|null|23/06/2020|null|null|null
+22/06/2020|SUPERIOR TRIBUNAL DE JUSTICA|null|null|null|null|null|null|null|null|null
+22/06/2020|SUPERIOR TRIBUNAL DE JUSTICA|null|null|MINISTRO NAPOLEAO NUNES MAIA FILHO|null|null|null|null|null|null
+22/06/2020|SUPERIOR TRIBUNAL DE JUSTICA|null|null|MINISTRO PRESIDENTE DO STJ|null|null|null|null|null|null
+23/06/2020|SUPERIOR TRIBUNAL DE JUSTICA|null|null|MINISTRO PRESIDENTE DO STJ|null|null|null|null|null|null
+23/06/2020|undefined|null|null|null|ESTADO DE MATO GROSSO DO SUL PROC. DO ESTADO: MARCELO ALFREDO ARAUJO KROETZ (OAB: 13893/MS)|RENATO ROMEU RENCK JUNIOR (OAB: 27574/RS)|24/06/2020|null|null|SERRANA - MAQUINAS IMPLEMENTOS AGRIC LTDA
+26/06/2020|undefined|null|null|DESEMBARGADOR FEDERAL ROMULO PIZZOLATTI|INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVAVEIS - IBAMA|null|26/06/2020|null|null|AEB ESTRUTURAS METALICAS LTDA (EM RECUPERACAO JUDICIAL)
+25/06/2020|undefined|null|null|null|null|null|25/06/2020|null|null|null
+24/06/2020|SUPERIOR TRIBUNAL DE JUSTICA|null|null|MINISTRO PRESIDENTE DO STJ|null|null|null|null|null|null
+26/06/2020|undefined|null|null|null|null|null|26/06/2020|null|null|null
+29/06/2020|undefined|null|null|JUIZ FEDERAL ALEXANDRE GONCALVES LIPPEL|null|RENATO ROMEU RENCK JUNIOR (OAB RS027574)|29/06/2020|null|null|null
+29/06/2020|undefined|null|null|JUIZ FEDERAL ALEXANDRE GONCALVES LIPPEL|null|null|29/06/2020|null|null|null
+29/06/2020|undefined|null|null|JUIZ FEDERAL ALEXANDRE GONCALVES LIPPEL|null|null|29/06/2020|null|null|null
+29/06/2020|undefined|null|null|null|null|null|29/06/2020|null|null|null
+02/07/2020|undefined|null|null|null|null|null|02/07/2020|null|null|null
+06/07/2020|undefined|null|null|JUIZ FEDERAL FRANCISCO DONIZETE GOMES|null|RENATO ROMEU RENCK JUNIOR (OAB RS027574)|06/07/2020|null|null|null
+10/07/2020|undefined|null|null|null|null|null|10/07/2020|null|null|null
+10/07/2020|undefined|null|null|null|null|null|13/07/2020|null|null|null
+13/07/2020|undefined|null|null|DESEMBARGADOR SERGIO LUIZ GRASSI BECK|DELTACRED-CREDITO E COBRANCA LTDA|RENATO ROMEU RENCK JUNIOR (OAB RS027574)|13/07/2020|null|null|MUNICIPIO DE SANTA CRUZ DO SUL
+15/07/2020|undefined|null|null|DESEMBARGADOR AYMORE ROQUE POTTES DE MELLO|GUILHERME TURRI DALCIN|LUCAS AULER ZAMBIASI (OAB RS069112)|15/07/2020|null|null|HUBBLE REPARO DE ELETRONICOS LTDA – ME
+17/07/2020|undefined|null|null|null|CVI REFRIGERANTES LTDA|RENATO ROMEU RENCK JUNIOR (OAB RS027574)|17/07/2020|null|null|UNIAO - FAZENDA NACIONAL
+17/07/2020|undefined|null|null|null|null|null|17/07/2020|null|null|null
+17/07/2020|undefined|null|null|null|null|null|20/07/2020|null|null|null
+21/07/2020|undefined|null|null|DESEMBARGADOR FEDERAL LUIS ALBERTO D AZEVEDO AURVALLE|null|RENATO ROMEU RENCK JUNIOR (OAB RS027574)|21/07/2020|null|null|null
+21/07/2020|undefined|null|null|DESEMBARGADOR FEDERAL LUIS ALBERTO D AZEVEDO AURVALLE|null|RENATO ROMEU RENCK JUNIOR (OAB RS027574)|21/07/2020|null|null|null
+21/07/2020|undefined|null|null|DESEMBARGADOR FEDERAL LUIS ALBERTO D AZEVEDO AURVALLE|null|RENATO ROMEU RENCK JUNIOR (OAB RS027574)|21/07/2020|null|null|null
+21/07/2020|undefined|null|null|null|null|null|22/07/2020|null|null|null
+24/07/2020|undefined|null|null|null|null|null|24/07/2020|null|null|null
+23/07/2020|undefined|null|null|null|null|null|24/07/2020|null|null|null
+28/07/2020|undefined|null|null|null|null|null|28/07/2020|null|null|null
+03/08/2020|undefined|null|null|null|null|null|03/08/2020|null|null|null
+31/07/2020|undefined|null|null|null|null|null|31/07/2020|null|null|null
+04/08/2020|undefined|null|null|null|ESTADO DE MATO GROSSO DO SUL PROC. DO ESTADO: FABIO HILARIO MARTINEZ DE OLIVEIRA (OAB: 13983/MS)|RENATO ROMEU RENCK JUNIOR (OAB: 27574/RS)|05/08/2020|null|null|SERRANA - MAQUINAS IMPLEMENTOS AGRIC LTDA
+07/08/2020|undefined|null|null|JUIZ FEDERAL FRANCISCO DONIZETE GOMES|INDUSTRIA E COMERCIO DE BEBIDAS ARACA LTDA - EPP|RENATO ROMEU RENCK JUNIOR (OAB RS027574)|07/08/2020|null|null|AGENCIA NACIONAL DE MINERACAO - ANM
+07/08/2020|undefined|null|null|JUIZ FEDERAL FRANCISCO DONIZETE GOMES|null|RENATO ROMEU RENCK JUNIOR (OAB RS027574)|07/08/2020|null|null|null
+10/08/2020|undefined|null|null|null|null|null|12/08/2020|null|null|null
+14/08/2020|undefined|null|null|DESEMBARGADOR RICARDO TORRES HERMANN|SIL – SOLUCOES AMBIENTAIS LTDA.|RENATO ROMEU RENCK JUNIOR (OAB RS027574)|14/08/2020|null|null|MUNICIPIO DE IJUI
+18/08/2020|undefined|null|null|null|null|null|18/08/2020|null|null|null
+19/08/2020|undefined|null|null|null|null|null|19/08/2020|null|null|null
+21/08/2020|undefined|null|null|null|null|null|21/08/2020|null|null|null
+21/08/2020|JUSTIÇA ESTADUAL RS|null|null|null|null|null|null|null|null|null
+25/08/2020|undefined|null|null|null|null|GERALDO DEL REI REIS (OAB:0009990/BA) AUTOR: EBRAE EMPRESA BRASILEIRA DE ENGENHARIA LTDA|25/08/2020|null|null|null
+26/08/2020|undefined|null|null|null|null|null|26/08/2020|PLANALTO TRANSPORTES LTDA|MUNICIPIO DE PALHOCA -|null
+27/08/2020|undefined|null|null|DESEMBARGADOR FEDERAL ROMULO PIZZOLATTI|null|RENATO ROMEU RENCK JUNIOR (OAB RS027574)|27/08/2020|null|null|null
+28/08/2020|TRIBUNAL REG. FEDERAL 4A REGIAO|09 de setembro de 2020, às 00:00|16 de setembro de 2020, quarta-feira, às 16h00min|JUIZ FEDERAL ALEXANDRE GONCALVES LIPPEL APELANTE : DANA INDUSTRIAS LTDA. ADVOGADO : REGIS DE SOUZA RENCK (OAB RS036923) ADVOGADO : LUCIANE MALLMANN COSTA (OAB RS057445) ADVOGADO : RENATO ROMEU RENCK JUNIOR (OAB RS027574) APELADO : UNIAO - FAZENDA NACIONAL PROCURADOR : DANIEL PACHECO CURCIO|null|null|null|null|null|null
+03/09/2020|undefined|null|null|null|null|null|03/09/2020|null|null|null
+02/09/2020|JUSTIÇA ESTADUAL RS|null|null|null|null|null|null|null|null|null
+03/09/2020|undefined|null|null|null|null|null|03/09/2020|null|null|null
+04/09/2020|TRIBUNAL REG. FEDERAL 4A REGIAO|16 de setembro de 2020, às 00:00|23 de setembro de 2020, quarta-feira, às 16h00min|JUIZ FEDERAL FRANCISCO DONIZETE GOMES APELANTE : UNIAO - FAZENDA NACIONAL (INTERESSADO) PROCURADOR : LIVIO GOELLNER GORON DIARIO ELETRONICO DA JUSTICA FEDERAL DA 4ª REGIAO 70/605 APELADO : CHARQUEADAS TRANSPORTES LTDA (IMPETRANTE) ADVOGADO : RENATO ROMEU RENCK JUNIOR (OAB RS027574)|null|null|null|null|null|null
+08/09/2020|undefined|null|null|null|null|null|08/09/2020|null|null|null
+08/09/2020|undefined|null|null|null|null|null|08/09/2020|null|null|null
+09/09/2020|undefined|null|null|null|null|null|09/09/2020|null|null|null
+09/09/2020|undefined|null|null|null|null|null|09/09/2020|null|null|null
+09/09/2020|undefined|null|null|null|null|null|09/09/2020|null|null|null
+11/09/2020|undefined|null|null|DES. NEWTON LUIS MEDEIROS FABRICIO EMBARGOS DE DECLARACAO 0162- 70083441550 (CNJ: 316064- 41.2019.8.21.7000) - DIREITO TRIBUTARIO - 6.VARA FAZENDA PUB FORO CENTRAL PORTO ALEGRE (1/11400796068) - ESTADO DO RIO GRANDE DO SUL (ADV(S) CRISTIANO XAVIER BAYNE - OAB/RS 46302, PAULA FERREIRA KRIEGER - OAB/RS 57189) EMBARGANTE; BORRACHAS VIPAL S/A (ADV(S) RENATO ROMEU RENCK JUNIOR - OAB/RS 27574) EMBARGADO(A)._________________________________________________________________________-ata do jornal: 11/09/2020|null|RENATO ROMEU RENCK JUNIOR (OAB: 27574/RS)|11/09/2020|null|null|null
+15/09/2020|undefined|null|null|null|PLANALTO TRANSPORTES LTDA|RENATO ROMEU RENCK JUNIOR (OAB RS27574)|15/09/2020|null|null|ESTADO DO TOCANTINS
+16/09/2020|undefined|null|null|null|null|null|16/09/2020|null|null|null
+16/09/2020|undefined|null|null|null|null|null|16/09/2020|null|null|null
+22/09/2020|undefined|null|null|null|null|null|22/09/2020|null|null|null
+18/09/2020|undefined|null|null|DESEMBARGADOR RICARDO TORRES HERMANN|CRVR – RIOGRANDENSE VALORIZACAO DE RESIDUOS LTDA.|RENATO ROMEU RENCK JUNIOR (OAB RS027574)|18/09/2020|null|null|MUNICIPIO DE IJUI
+25/09/2020|undefined|null|null|null|null|null|25/09/2020|null|null|null
+28/09/2020|undefined|null|null|null|null|null|28/09/2020|null|null|null
+28/09/2020|undefined|null|null|null|null|null|28/09/2020|null|null|null
+28/09/2020|undefined|null|null|null|null|null|28/09/2020|BR PLASTICOS INDUSTRIA LTDA|HULTEC MERCOSUR LTDA -|null
+29/09/2020|undefined|null|null|null|null|null|29/09/2020|null|null|null
+30/09/2020|undefined|null|null|null|null|null|01/10/2020|null|null|null
+01/10/2020|undefined|null|null|DESEMBARGADOR ARMINIO JOSE ABREU LIMA DA ROSA|CRVR - RIOGRANDENSE DE VALORIZACAO DE RESIDUOS LTDA|RENATO ROMEU RENCK JUNIOR (OAB RS027574)|01/10/2020|null|null|MUNICIPIO DE NOVA PRATA
+01/10/2020|undefined|null|null|null|null|null|01/10/2020|null|null|null
+02/10/2020|undefined|null|null|JUIZ FEDERAL ALEXANDRE GONCALVES LIPPEL|null|REGIS DE SOUZA RENCK (OAB RS036923)|02/10/2020|null|null|null
+02/10/2020|undefined|null|null|null|null|null|02/10/2020|null|null|null
+05/10/2020|undefined|null|null|null|null|null|05/10/2020|null|null|null
+06/10/2020|undefined|null|null|null|null|null|06/10/2020|null|null|null
+08/10/2020|undefined|null|null|null|null|null|08/10/2020|null|null|null
+08/10/2020|undefined|null|null|null|null|null|08/10/2020|null|null|null
+08/10/2020|undefined|null|null|null|null|null|08/10/2020|null|null|null
+15/10/2020|undefined|null|null|null|null|RENATO ROMEU RENCK JUNIOR (OAB: 27574/RS)|16/10/2020|null|null|null
+19/10/2020|undefined|null|null|null|null|null|20/10/2020|null|null|null
+20/10/2020|undefined|null|null|null|null|null|20/10/2020|null|null|null
+20/10/2020|undefined|null|null|DESEMBARGADOR GIOVANNI CONTI|FUNDO DE INVESTIMENTO IMOBILIARIO CAIXA INCORPORACAO|RICARDO NEGRAO (OAB SP138723)|20/10/2020|null|null|ENTREGA RAPIDA DE GAS VILA NOVA LTDA
+20/10/2020|undefined|null|null|null|null|null|20/10/2020|null|null|null
+21/10/2020|TRIBUNAL REG. FEDERAL 4A REGIAO|03 de novembro de 2020, às 00:00|10 de novembro de 2020, terça-feira, às 16h00min|null|null|null|null|null|null|null
+21/10/2020|undefined|null|null|DESEMBARGADOR FEDERAL ROGER RAUPP RIOS|PRESS COMERCIO DE ALIMENTOS LTDA|RENATO ROMEU RENCK JUNIOR (OAB RS027574)|21/10/2020|null|null|DELEGADO DA RECEITA FEDERAL DO BRASIL - UNIAO - FAZENDA NACIONAL - PORTO ALEGRE
+23/10/2020|undefined|null|null|null|null|null|23/10/2020|null|null|null
+23/10/2020|undefined|null|null|null|null|null|23/10/2020|null|null|null
+26/10/2020|undefined|null|null|null|null|null|26/10/2020|null|null|null
+27/10/2020|undefined|null|null|null|null|null|27/10/2020|null|null|null
+28/10/2020|undefined|null|null|null|null|null|28/10/2020|null|null|null
+28/10/2020|undefined|null|null|null|null|null|28/10/2020|null|null|null
+05/11/2020|undefined|null|null|null|null|null|05/11/2020|null|null|null
+05/11/2020|undefined|null|null|null|null|null|05/11/2020|null|null|null
+05/11/2020|undefined|null|null|null|null|null|05/11/2020|null|null|null
+10/11/2020|undefined|null|null|DESEMBARGADOR EDUARDO JOAO LIMA COSTA|null|RENATO ROMEU RENCK JUNIOR (OAB RS027574)|10/11/2020|null|null|null
+11/11/2020|undefined|null|null|null|null|null|11/11/2020|null|null|null
+12/11/2020|undefined|null|null|null|null|null|12/11/2020|null|null|null
+12/11/2020|undefined|null|null|null|null|null|12/11/2020|null|null|null
+13/11/2020|undefined|null|null|null|null|RENATO ROMEU RENCK JUNIOR (OAB RS027574)|13/11/2020|null|null|null
+16/11/2020|undefined|null|null|null|null|null|16/11/2020|null|null|null
+17/11/2020|undefined|null|null|DESEMBARGADOR FEDERAL LUIS ALBERTO D AZEVEDO AURVALLE|null|RENATO ROMEU RENCK JUNIOR (OAB RS027574)|17/11/2020|null|null|null
+17/11/2020|undefined|null|null|null|null|null|17/11/2020|null|null|null
+17/11/2020|undefined|null|null|null|null|null|17/11/2020|null|null|null
+18/11/2020|undefined|null|null|null|null|null|18/11/2020|null|null|null
+19/11/2020|undefined|null|null|null|null|null|19/11/2020|null|null|null
+20/11/2020|undefined|null|null|null|null|null|20/11/2020|null|null|null
+20/11/2020|undefined|null|null|null|null|null|20/11/2020|null|null|null
+20/11/2020|undefined|null|null|null|null|null|20/11/2020|null|null|null
+20/11/2020|undefined|null|null|null|null|null|20/11/2020|null|null|null
+23/11/2020|undefined|null|null|null|null|null|23/11/2020|null|null|null
+23/11/2020|undefined|null|null|null|null|null|23/11/2020|null|null|null
+23/11/2020|undefined|null|null|null|ESTADO DE MATO GROSSO DO SUL PROC. DO ESTADO: RENATO MAIA PEREIRA (OAB: 11964B/MS)|RENATO ROMEU RENCK JUNIOR (OAB: 27574/RS)|24/11/2020|null|null|SERRANA - MAQUINAS IMPLEMENTOS AGRIC LTDA
+23/11/2020|undefined|null|null|null|ESTADO DE MATO GROSSO DO SUL PROC. DO ESTADO: RENATO MAIA PEREIRA (OAB: 11964B/MS)|RENATO ROMEU RENCK JUNIOR (OAB: 27574/RS)|24/11/2020|null|null|SERRANA - MAQUINAS IMPLEMENTOS AGRIC LTDA
+24/11/2020|undefined|null|null|null|null|null|24/11/2020|null|null|null
+24/11/2020|undefined|null|null|null|null|null|24/11/2020|null|null|null
+24/11/2020|undefined|null|null|null|null|null|24/11/2020|null|null|null
+25/11/2020|undefined|null|null|null|null|null|25/11/2020|null|null|null
+26/11/2020|undefined|null|null|DESEMBARGADOR FEDERAL ROMULO PIZZOLATTI|null|RENATO ROMEU RENCK JUNIOR (OAB RS027574)|26/11/2020|null|null|null
+26/11/2020|undefined|null|null|null|null|null|26/11/2020|null|null|null
+26/11/2020|undefined|null|null|null|null|null|26/11/2020|null|null|null
+26/11/2020|undefined|null|null|null|null|null|26/11/2020|null|null|null
+26/11/2020|undefined|null|null|null|null|null|26/11/2020|null|null|null
+26/11/2020|undefined|null|null|null|null|null|26/11/2020|null|null|null
+30/11/2020|undefined|null|null|DESEMBARGADOR UMBERTO GUASPARI SUDBRACK|null|RENATO ROMEU RENCK JUNIOR (OAB RS027574)|30/11/2020|null|null|null
+30/11/2020|undefined|null|null|null|null|RENATO ROMEU RENCK JUNIOR (OAB RS027574)|30/11/2020|null|null|null
+30/11/2020|undefined|null|null|null|PARKSHOPPING CANOAS LTDA|GUILHERME QUEIROLO FEIJO (OAB RS089512)|30/11/2020|null|null|CARLA ESTRELLA TELLINI
+30/11/2020|undefined|null|null|JUIZ DE DIREITO AFIF JORGE SIMOES NETO|SUCESSAO DE JAIRTON KRUGER RUSSO|RENATO ROMEU RENCK JUNIOR (OAB RS027574)|30/11/2020|null|null|BANCO COOPERATIVO SICREDI S.A.
+30/11/2020|undefined|null|null|null|null|null|30/11/2020|null|null|null
+30/11/2020|undefined|null|null|null|null|null|30/11/2020|null|null|null
+01/12/2020|undefined|null|null|null|null|null|01/12/2020|null|null|null
+01/12/2020|undefined|null|null|null|null|null|01/12/2020|null|null|null
+02/12/2020|undefined|null|null|null|null|null|02/12/2020|null|null|null
