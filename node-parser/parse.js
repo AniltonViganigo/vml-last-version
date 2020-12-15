@@ -1,5 +1,5 @@
 var fs = require('fs');
-var MultiRegExp = require('multiregexp');
+var MultiRegExp = require('multiregexp'); 
 
 var startTokens = [ //tokens que identificam o inicio de uma publicação
     /Data do jornal: /gi, 

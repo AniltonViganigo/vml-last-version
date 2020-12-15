@@ -1,5 +1,4 @@
 node-parser/node_modules
-node-parser/parser-win.exe
 node-parser/parser-linux
 node-parser/parser-macos
 .entities
